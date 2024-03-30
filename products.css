@@ -1,0 +1,84 @@
+body{
+    background-color: #031c40;
+    background-image: linear-gradient(315deg, #e98213 30%, #09768e 74%);
+}
+.card1:hover{
+    transform: scale(1.05);
+ box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+}
+.card2:hover{
+    transform: scale(1.05);
+    box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+}
+.card1-h-100{
+ background-color: #01235a;
+
+}
+#btnpg{
+ width:9em;
+ height: 3em;
+ background-color: #031c40;
+ background-image: linear-gradient(315deg, #e98213 30%, #09768e 74%);
+ color: white;
+ border: none;
+ margin: 2em;
+}
+#btnpg:hover{
+ width: 10em;
+ background-color: #031c40;
+ background-image: linear-gradient(315deg, #026217 30%, #08b092 74%);
+ color: gold;
+}
+.card1{
+
+    text-align: center;
+    align-items: center;
+    background-color: #031c40;
+    background-image: linear-gradient(315deg, #a00b00 30%, #dc6c6c 74%);
+    background-repeat: repeat;
+    width: 30em;
+    height: 30em;
+    padding: 1.5em;
+    
+    
+}
+.card2{
+    
+    text-align: center;
+    align-items: center;
+    background-color: #031c40;
+    background-image: linear-gradient(315deg, #a00b00 30%, #dc6c6c 74%);
+    background-repeat: repeat;
+    padding: 1.5em;
+}
+#artbutn{
+    margin: 1em;
+}
+#prodpara1{
+    color: rgb(252, 253, 255);
+    margin-left: 14em;
+    font-size: 240%;
+    font-style:oblique;
+    font-weight: 500;
+}
+#prodpara2{
+    color: rgb(252, 253, 255);
+    margin-left: 12.5em;
+    font-size: 240%;
+    font-style:oblique;
+    font-weight: 500;
+}
+#prodimg{
+    width: 24em;
+    height: 16em;
+}
+#col1{
+    margin: 2em;
+}
+#row1{
+    margin: 2em;
+}
+#prodimg{
+    width: 15em;
+    height: 10em;
+}

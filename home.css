@@ -1,0 +1,81 @@
+.navbar{
+    background-color: #031c40;
+    background-image: linear-gradient(315deg, #9f06d1 30%, #391041 74%);
+}
+#navlink:hover{
+    background-color: #031c40;
+    background-image: linear-gradient(315deg, #07add2 30%, #01535a 74%);
+    color: rgb(206, 200, 20);
+
+
+}
+.navbar-brand:hover{
+    background-color: #031c40;
+    background-image: linear-gradient(315deg, #d8c302 30%, #ea9e05 74%);
+    width: 9em;
+    text-align: center;
+}
+#navlink{
+    color: white;
+}
+.background2{
+    
+    background-repeat: repeat;
+    background-size: cover;
+    width: 96em;
+    height: 41.2em;
+    position: absolute;
+}
+#homepara1{
+    color: rgb(255, 255, 255);
+    margin-left: 7em;
+    font-size: 260%;
+    font-style:initial;
+    font-weight: 500;
+}
+#homepara2{
+    color: rgb(255, 255, 255);
+    font-size: 210%;
+    margin-left: 0.5em;
+    font-style:initial;
+    font-weight: 500;
+}
+#homepara3{
+    color: rgb(255, 255, 255);
+    font-size: 210%;
+    margin-left: 9em;
+    font-style:initial;
+    font-weight: 500;
+}
+#homepara4{
+    color: rgb(252, 253, 255);
+    margin-left: 15em;
+    font-size: 240%;
+    font-style:initial;
+    font-weight: 500;
+}
+#homebtn{
+    background-color: #031c40;
+    background-image: linear-gradient(315deg, #f5e238 30%, #027681 74%);
+    color: white;
+    font-size: 150%;
+    font-weight: 500;
+    width: 30em;
+    height: 3em;
+    border: none;
+    margin-top: 2em;
+    margin-left: 16em;
+    border-radius: 25%;
+    
+}
+#homebtn:hover{
+    background-color: #031c40;
+    background-image: linear-gradient(315deg, #ec892b 30%, #3542f5 74%);
+    height: 3.5em;
+    width: 34em;
+    font-weight: 600;
+    margin-top: 1.8em;
+    margin-left: 14em;
+    border-radius: 30%;
+
+}

@@ -1,0 +1,53 @@
+#h1{
+    color: rgb(180, 75, 225);
+    margin-left: 11em;
+    font-size: 260%;
+    font-style:initial;
+}
+#h2{
+    color: rgb(214, 119, 255);
+    margin-left: 15.2em;
+    font-style:italic
+}
+#h3{
+    color: rgb(205, 115, 244);
+    margin-left: 31em;
+
+}
+#e1{
+    width: 18em;
+    height: 3em;
+    margin-left: 36em;
+
+}
+#p1{
+    width: 18em;
+    height: 3em;
+    margin-left: 36em;
+
+}
+#b1{
+    width: 10em;
+    height: 3.5em;
+    color: white;
+    background-color: rgb(180, 75, 225);
+    margin-left: 40em;
+
+}
+#l1{
+    font-size: large;
+    color: rgb(212, 126, 249);
+    margin-left: 31.2em;
+    font-weight: bold;
+
+}
+#lnew{
+    color: rgb(214, 119, 255);
+}
+.background{
+    background-repeat: repeat;
+    background-size: cover;
+    width: 96em;
+    height: 45.8em;
+    position: absolute;
+}
